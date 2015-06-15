@@ -1,5 +1,5 @@
 # eki-study
-All code and data associated with study described in: McKiernan EC. (2015) A genetic manipulation of motor neuron excitability does not alter locomotor output in Drosophila larvae. PeerJ PrePrints 3:e1062 https://dx.doi.org/10.7287/peerj.preprints.469v2
+All code and data associated with study described in: McKiernan EC. (2015) A genetic manipulation of motor neuron excitability does not alter locomotor output in <i>Drosophila</i> larvae. <i>PeerJ PrePrints</i> 3:e1434 https://dx.doi.org/10.7287/peerj.preprints.469v3
 
 <h2>Raw recordings</h2>
 
@@ -14,7 +14,7 @@ The master csv spreadsheet contains information on all larvae included in the fi
 
 <ol type="1">    
 <li>Date on which the recording was performed (yyyy-mm-dd format).</li>
-<li>File number of the recording (in either ABF or SMR format) and the channel within the recording (Ch1=channel 1; Ch2=channel2). All recordings have two recorded channels. One channel contains a recording from a muscle innervated by control (wildtype) motor neurons, and the other channel contains a recording from a neighboring muscle innervated by at least one motor neuron expressing the genetic manipulation 'Electrical Knock-In' (EKI). For more information on the EKI line, see the preprint <a href="https://peerj.com/preprints/469v2/">(McKiernan, 2015)</a>.</li>   
+<li>File number of the recording (in either ABF or SMR format) and the channel within the recording (Ch1=channel 1; Ch2=channel2). All recordings have two recorded channels. One channel contains a recording from a muscle innervated by control (wildtype) motor neurons, and the other channel contains a recording from a neighboring muscle innervated by at least one motor neuron expressing the genetic manipulation 'Electrical Knock-In' (EKI). For more information on the EKI line, see the preprint <a href="https://peerj.com/preprints/469v3/">(McKiernan, 2015)</a>.</li>   
 <li>Animal or 'prep' (preparation) number in the sample. In total, thirteen larvae were included in this study. The prep number can be used for ease of seeing which recorded channels belong to which animal. Again, all animals have two recorded channels, a wiltype and an EKI channel.</li>
 <li>Experimental condition, i.e. whether the recorded muscle was innervated by either wildtype motor neurons (control) or EKI-expressing (manipulated) motor neurons.</li>
 <li>Motor neuron expressing the genetic manipulation EKI. EKI was expressed in either motor neuron MN1-Ib or MNISN-Is, or in both motor neurons (MN1-Ib+MNISN-Is) innervating the same segment.</li>
