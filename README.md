@@ -3,7 +3,7 @@ All code and data associated with study described in: McKiernan EC. (2015) A gen
 
 <h2>Raw recordings</h2>
 
-Dual intracellular recordings were made from muscles in the body wall of <i>Drosophila</i> larvae, as described previously <a href="https://peerj.com/articles/57/">(McKiernan, 2013)</a> and in a preprint describing the current work <a href="https://peerj.com/preprints/469v2/">(McKiernan, 2015)</a>. The electrical activity of interest was spontaneous, rhythmic bursting activity underlying crawling. </p>
+Dual intracellular recordings were made from muscles in the body wall of <i>Drosophila</i> larvae, as described previously <a href="https://peerj.com/articles/57/">(McKiernan, 2013)</a> and in a preprint describing the current work <a href="https://peerj.com/preprints/469v3/">(McKiernan, 2015)</a>. The electrical activity of interest was spontaneous, rhythmic bursting activity underlying crawling. </p>
 
 All raw recordings are available in both ABF (Axon) and SMR (Spike2) formats. Although these are proprietary file formats, the raw recordings can be read and plotted using the python package <a href="https://pythonhosted.org/neo/">Neo</a>. Please see the ipython notebook provided in this repository for instructions on how to read and plot recordings. </p> 
 
