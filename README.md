@@ -1,4 +1,4 @@
-# eki-study
+# 'Electrical Knock-In' (EKI) study: original code and data 
 All code and data associated with study described in: McKiernan EC. (2015) A genetic manipulation of motor neuron excitability does not alter locomotor output in <i>Drosophila</i> larvae. <i>PeerJ PrePrints</i> 3:e1434 https://dx.doi.org/10.7287/peerj.preprints.469v3
 
 <h2>Raw recordings</h2>
